@@ -68,7 +68,7 @@ ul li .bg {
 }
 
 ul li.item1 .bg {
-	background: url(/image1.jfif);
+	background: url(image1.jfif);
 	background-size: 100px;
 }
 
@@ -78,7 +78,7 @@ ul li .bg {
 }
 
 ul li.item2 .bg {
-	background: url(/image2.jfif);
+	background: url(image2.jfif);
 	background-size: 100px;
 }
 
@@ -88,7 +88,7 @@ ul li.bg {
 }
 
 ul li.item3 .bg {
-	background: url(/image3.jfif);
+	background: url(image3.jfif);
 	background-size: 200px;
 }
 
@@ -98,7 +98,7 @@ ul li.bg {
 }
 
 ul li.item4 .bg {
-	background: url(/image4.jfif);
+	background: url(image4.jfif);
 	background-size: 100px;
 }
 
@@ -108,7 +108,7 @@ ul li.bg {
 }
 
 ul li.item5 .bg {
-	background: url(/image5.jfif);
+	background: url(image5.jfif);
 	background-size: cover;
 }
 
@@ -120,7 +120,7 @@ ul li.item5 .bg {
 	height: 100px;
 	border: 1px solid black;
 	border-radius: 10px;
-	background-image: url(/gif.gif);
+	background-image: url(gif.gif);
 
 	background-size: 100%;
 }
